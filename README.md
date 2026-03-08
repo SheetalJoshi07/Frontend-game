@@ -11,7 +11,7 @@
 **Team Members:**
 
 * Sheetal Joshi
-* Shilpa 
+* Shilpa.S
 * Sathvik Reddy
 
 ---
