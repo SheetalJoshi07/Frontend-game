@@ -2,7 +2,7 @@
 
 ## 👥 Team Details
 
-**Team Name:** Team zenova
+**Team Name:** Team Zenova
 
 **Team Leader:**
 
@@ -17,18 +17,14 @@
 ---
 
 ## 📌 Project Title
-
-*To be decided*
+Student Hub
 
 ---
 
 ## 📖 Project Description
 
-This repository is created for the project developed by **Team Alpha-3**.
-The project is currently in the **planning stage**, and the team will soon decide the topic, technologies, and implementation details.
-
-The purpose of this repository is to organize our work, track progress, and maintain proper documentation for the project.
-
+This repository is created for the project developed by **Team Zenova**.
+Zenova symbolizes creativity, teamwork, and innovation in learning. Through our project “Student Hub,” we aim to provide a simple and effective platform where students can explore courses, gain knowledge, and enhance their skills.
 ---
 
 ## 🗂️ Planned Page Structure
