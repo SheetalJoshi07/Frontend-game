@@ -1,8 +1,8 @@
-# Team Alpha-3
+# Team zenova
 
 ## 👥 Team Details
 
-**Team Name:** Team Alpha-3
+**Team Name:** Team zenova
 
 **Team Leader:**
 
