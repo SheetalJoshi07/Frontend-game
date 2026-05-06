@@ -10,14 +10,13 @@
 
 **Team Members:**
 
-* Sheetal Joshi
-* Shilpa.S
-* Sathvik Reddy
-
+* Sheetal Joshi (2082508334)
+* Shilpa.S (2102508124)
+* Sathvik Reddy (2082508289)
 ---
 
 ## 📌 Project Title
-Student Hub
+**Student Hub**
 
 ---
 
